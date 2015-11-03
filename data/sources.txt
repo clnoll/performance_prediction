@@ -1,0 +1,4 @@
+https://code.google.com/p/yahoo-finance-managed/wiki/csvHistQuotesDownload:  
+
+goog_20100101_20151031.csv
+http://ichart.yahoo.com/table.csv?s=GOOG&a=0&b=1&c=2000&d=10&e=31&f=2015&g=w&ignore=.csv
