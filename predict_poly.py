@@ -2,9 +2,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import sys
 
-# from lmfit import minimize, Parameters, Parameter, report_fit
-# from scipy.optimize import curve_fit
-
 
 def read_data(path):
     return np.genfromtxt(path, delimiter=",", names=True, unpack=True)
