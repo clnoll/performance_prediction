@@ -12,7 +12,7 @@ def fit_model(data):
     x = np.linspace(0, len(get_x_values(data)), len(get_x_values(data)))
     y = get_y_values(data)
     # calculate polynomial
-    z = np.polyfit(x, y, 3)
+    z = np.polyfit(x, y, 4)
     f = np.poly1d(z)
     return f
 
